@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Muaj-bin-karim
+- 👀 I’m interested in codeing
+- 🌱 I’m currently learning javascript
+-
+-
