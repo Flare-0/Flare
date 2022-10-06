@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muaj-bin-karim
+- 👋 Hi, I’m @Hashtag
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning javascript
 -
