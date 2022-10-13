@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hashtag
-- 👀 I’m interested in codeing
+- 👋 Hi, I’m @Flare
+- 👀 I’m interested in javascript
 - 🌱 I’m currently learning javascript
 -
 -
